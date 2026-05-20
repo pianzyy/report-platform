@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "city": "广州",
+      "period": "2025-12",
+      "totalListings": 850,
+      "avgDiscountRate": 75,
+      "priceDiscountVsMarket": 25,
+      "avgPrice": 46500,
+      "marketAvgPrice": 61070,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 480,
+          "avgDiscount": 0.75
+        },
+        {
+          "type": "商业",
+          "count": 200,
+          "avgDiscount": 0.7
+        },
+        {
+          "type": "办公",
+          "count": 120,
+          "avgDiscount": 0.67
+        },
+        {
+          "type": "车位",
+          "count": 50,
+          "avgDiscount": 0.73
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 55800
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 60450
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 41850
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 32549
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 30225
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 27900
+        }
+      ],
+      "avgDaysOnMarket": 95,
+      "transactionVolume": 120,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "广州",
+      "period": "2026-01",
+      "totalListings": 895,
+      "avgDiscountRate": 76,
+      "priceDiscountVsMarket": 24,
+      "avgPrice": 47120,
+      "marketAvgPrice": 61380,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 510,
+          "avgDiscount": 0.76
+        },
+        {
+          "type": "商业",
+          "count": 210,
+          "avgDiscount": 0.71
+        },
+        {
+          "type": "办公",
+          "count": 125,
+          "avgDiscount": 0.68
+        },
+        {
+          "type": "车位",
+          "count": 52,
+          "avgDiscount": 0.74
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 56544
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 61256
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 42408
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 32984
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 30628
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 28272
+        }
+      ],
+      "avgDaysOnMarket": 90,
+      "transactionVolume": 130,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "广州",
+      "period": "2026-02",
+      "totalListings": 940,
+      "avgDiscountRate": 77,
+      "priceDiscountVsMarket": 23,
+      "avgPrice": 47740,
+      "marketAvgPrice": 61690,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 540,
+          "avgDiscount": 0.77
+        },
+        {
+          "type": "商业",
+          "count": 220,
+          "avgDiscount": 0.72
+        },
+        {
+          "type": "办公",
+          "count": 130,
+          "avgDiscount": 0.6900000000000001
+        },
+        {
+          "type": "车位",
+          "count": 54,
+          "avgDiscount": 0.75
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 57288
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 62062
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 42966
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 33418
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 31031
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 28644
+        }
+      ],
+      "avgDaysOnMarket": 85,
+      "transactionVolume": 140,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "广州",
+      "period": "2026-03",
+      "totalListings": 985,
+      "avgDiscountRate": 78,
+      "priceDiscountVsMarket": 21.999999999999996,
+      "avgPrice": 48360,
+      "marketAvgPrice": 62000,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 570,
+          "avgDiscount": 0.78
+        },
+        {
+          "type": "商业",
+          "count": 230,
+          "avgDiscount": 0.73
+        },
+        {
+          "type": "办公",
+          "count": 135,
+          "avgDiscount": 0.7000000000000001
+        },
+        {
+          "type": "车位",
+          "count": 56,
+          "avgDiscount": 0.76
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 58032
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 62868
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 43524
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 33852
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 31434
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 29016
+        }
+      ],
+      "avgDaysOnMarket": 80,
+      "transactionVolume": 150,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "广州",
+      "period": "2026-04",
+      "totalListings": 1030,
+      "avgDiscountRate": 79,
+      "priceDiscountVsMarket": 20.999999999999996,
+      "avgPrice": 48980,
+      "marketAvgPrice": 62309,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 600,
+          "avgDiscount": 0.79
+        },
+        {
+          "type": "商业",
+          "count": 240,
+          "avgDiscount": 0.74
+        },
+        {
+          "type": "办公",
+          "count": 140,
+          "avgDiscount": 0.7100000000000001
+        },
+        {
+          "type": "车位",
+          "count": 58,
+          "avgDiscount": 0.77
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 58776
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 63674
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 44082
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 34286
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 31837
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 29388
+        }
+      ],
+      "avgDaysOnMarket": 75,
+      "transactionVolume": 160,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "广州",
+      "period": "2026-05",
+      "totalListings": 1075,
+      "avgDiscountRate": 80,
+      "priceDiscountVsMarket": 19.999999999999996,
+      "avgPrice": 49600,
+      "marketAvgPrice": 62620,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 630,
+          "avgDiscount": 0.8
+        },
+        {
+          "type": "商业",
+          "count": 250,
+          "avgDiscount": 0.75
+        },
+        {
+          "type": "办公",
+          "count": 145,
+          "avgDiscount": 0.7200000000000001
+        },
+        {
+          "type": "车位",
+          "count": 60,
+          "avgDiscount": 0.78
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 59520
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 64480
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 44640
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 34720
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 32240
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 29760
+        }
+      ],
+      "avgDaysOnMarket": 70,
+      "transactionVolume": 170,
+      "source": "贝壳找房/安居客/链家"
+    }
+  ],
+  "cachedAt": "2026-05-19T15:32:41.956Z"
+}

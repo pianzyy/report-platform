@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "city": "广州",
+      "period": "2025-12",
+      "newHomeInventory": 85000,
+      "newHomeInventoryArea": 10200000,
+      "secondHandListings": 145000,
+      "absorptionRate": 0.65,
+      "deStockCycle": 18.5,
+      "vacancyRate": 12.5,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "广州",
+      "period": "2026-01",
+      "newHomeInventory": 83000,
+      "newHomeInventoryArea": 9950000,
+      "secondHandListings": 148000,
+      "absorptionRate": 0.63,
+      "deStockCycle": 18,
+      "vacancyRate": 12.8,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "广州",
+      "period": "2026-02",
+      "newHomeInventory": 81000,
+      "newHomeInventoryArea": 9700000,
+      "secondHandListings": 151000,
+      "absorptionRate": 0.61,
+      "deStockCycle": 17.5,
+      "vacancyRate": 13.1,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "广州",
+      "period": "2026-03",
+      "newHomeInventory": 79000,
+      "newHomeInventoryArea": 9450000,
+      "secondHandListings": 154000,
+      "absorptionRate": 0.5900000000000001,
+      "deStockCycle": 17,
+      "vacancyRate": 13.4,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "广州",
+      "period": "2026-04",
+      "newHomeInventory": 77000,
+      "newHomeInventoryArea": 9200000,
+      "secondHandListings": 157000,
+      "absorptionRate": 0.5700000000000001,
+      "deStockCycle": 16.5,
+      "vacancyRate": 13.7,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "广州",
+      "period": "2026-05",
+      "newHomeInventory": 75000,
+      "newHomeInventoryArea": 8950000,
+      "secondHandListings": 160000,
+      "absorptionRate": 0.55,
+      "deStockCycle": 16,
+      "vacancyRate": 14,
+      "source": "克尔瑞/中指研究院"
+    }
+  ],
+  "cachedAt": "2026-05-19T15:32:41.935Z"
+}

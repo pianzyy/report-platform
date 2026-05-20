@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 98.2,
+      "newHomePriceYoY": -2.5,
+      "newHomePriceMoM": -0.26412778374170787,
+      "secondHandPriceIndex": 98.8,
+      "secondHandPriceYoY": -4.8,
+      "secondHandPriceMoM": -0.46024001787490115,
+      "period": "2025-06",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 98.5,
+      "newHomePriceYoY": -2.3,
+      "newHomePriceMoM": -0.10126988834487441,
+      "secondHandPriceIndex": 99,
+      "secondHandPriceYoY": -4.3999999999999995,
+      "secondHandPriceMoM": 0.025876420812552037,
+      "period": "2025-07",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 98.8,
+      "newHomePriceYoY": -2.1,
+      "newHomePriceMoM": -0.019199141692779698,
+      "secondHandPriceIndex": 99.2,
+      "secondHandPriceYoY": -4,
+      "secondHandPriceMoM": 0.018176315108336505,
+      "period": "2025-08",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 99.1,
+      "newHomePriceYoY": -1.9,
+      "newHomePriceMoM": 0.20976534207625613,
+      "secondHandPriceIndex": 99.4,
+      "secondHandPriceYoY": -3.5999999999999996,
+      "secondHandPriceMoM": -0.2457681484688985,
+      "period": "2025-09",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 99.4,
+      "newHomePriceYoY": -1.7,
+      "newHomePriceMoM": -0.253652672128407,
+      "secondHandPriceIndex": 99.6,
+      "secondHandPriceYoY": -3.1999999999999997,
+      "secondHandPriceMoM": -0.0811497909644136,
+      "period": "2025-10",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 99.7,
+      "newHomePriceYoY": -1.5,
+      "newHomePriceMoM": 0.05443332278194002,
+      "secondHandPriceIndex": 99.8,
+      "secondHandPriceYoY": -2.8,
+      "secondHandPriceMoM": -0.11430030675085223,
+      "period": "2025-11",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 100,
+      "newHomePriceYoY": -1.2999999999999998,
+      "newHomePriceMoM": 0.13174734089173923,
+      "secondHandPriceIndex": 100,
+      "secondHandPriceYoY": -2.3999999999999995,
+      "secondHandPriceMoM": -0.37726613129936937,
+      "period": "2025-12",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 100.3,
+      "newHomePriceYoY": -1.0999999999999999,
+      "newHomePriceMoM": -0.09454738250573805,
+      "secondHandPriceIndex": 100.2,
+      "secondHandPriceYoY": -1.9999999999999996,
+      "secondHandPriceMoM": 0.11129287276567901,
+      "period": "2026-01",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 100.6,
+      "newHomePriceYoY": -0.8999999999999999,
+      "newHomePriceMoM": -0.07529048457944901,
+      "secondHandPriceIndex": 100.4,
+      "secondHandPriceYoY": -1.5999999999999996,
+      "secondHandPriceMoM": -0.046451086784248086,
+      "period": "2026-02",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 100.9,
+      "newHomePriceYoY": -0.7,
+      "newHomePriceMoM": 0.2533126213139259,
+      "secondHandPriceIndex": 100.6,
+      "secondHandPriceYoY": -1.1999999999999997,
+      "secondHandPriceMoM": 0.11850287648446489,
+      "period": "2026-03",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 101.2,
+      "newHomePriceYoY": -0.5,
+      "newHomePriceMoM": -0.06096780560571613,
+      "secondHandPriceIndex": 100.8,
+      "secondHandPriceYoY": -0.7999999999999998,
+      "secondHandPriceMoM": -0.2734904377073226,
+      "period": "2026-04",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "宁波",
+      "newHomePriceIndex": 101.5,
+      "newHomePriceYoY": -0.2999999999999998,
+      "newHomePriceMoM": 0.2635579967745803,
+      "secondHandPriceIndex": 101,
+      "secondHandPriceYoY": -0.39999999999999947,
+      "secondHandPriceMoM": -0.4606495184359277,
+      "period": "2026-05",
+      "source": "贝壳找房/国家统计局"
+    }
+  ],
+  "cachedAt": "2026-05-20T12:50:00.519Z"
+}

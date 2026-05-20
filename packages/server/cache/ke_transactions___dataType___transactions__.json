@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "city": "北京",
+      "period": "2025-06",
+      "newHomeTransactions": 4500,
+      "newHomeTransactionArea": 540000,
+      "secondHandTransactions": 12000,
+      "secondHandTransactionArea": 1200000,
+      "transactionValue": 28000000000,
+      "avgPrice": 60140,
+      "avgPriceYoY": -3.5,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-07",
+      "newHomeTransactions": 4580,
+      "newHomeTransactionArea": 550000,
+      "secondHandTransactions": 12250,
+      "secondHandTransactionArea": 1225000,
+      "transactionValue": 28500000000,
+      "avgPrice": 60450,
+      "avgPriceYoY": -3.2,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-08",
+      "newHomeTransactions": 4660,
+      "newHomeTransactionArea": 560000,
+      "secondHandTransactions": 12500,
+      "secondHandTransactionArea": 1250000,
+      "transactionValue": 29000000000,
+      "avgPrice": 60760,
+      "avgPriceYoY": -2.9,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-09",
+      "newHomeTransactions": 4740,
+      "newHomeTransactionArea": 570000,
+      "secondHandTransactions": 12750,
+      "secondHandTransactionArea": 1275000,
+      "transactionValue": 29500000000,
+      "avgPrice": 61070,
+      "avgPriceYoY": -2.6,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-10",
+      "newHomeTransactions": 4820,
+      "newHomeTransactionArea": 580000,
+      "secondHandTransactions": 13000,
+      "secondHandTransactionArea": 1300000,
+      "transactionValue": 30000000000,
+      "avgPrice": 61380,
+      "avgPriceYoY": -2.3,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-11",
+      "newHomeTransactions": 4900,
+      "newHomeTransactionArea": 590000,
+      "secondHandTransactions": 13250,
+      "secondHandTransactionArea": 1325000,
+      "transactionValue": 30500000000,
+      "avgPrice": 61690,
+      "avgPriceYoY": -2,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2025-12",
+      "newHomeTransactions": 4980,
+      "newHomeTransactionArea": 600000,
+      "secondHandTransactions": 13500,
+      "secondHandTransactionArea": 1350000,
+      "transactionValue": 31000000000,
+      "avgPrice": 62000,
+      "avgPriceYoY": -1.7000000000000002,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2026-01",
+      "newHomeTransactions": 5060,
+      "newHomeTransactionArea": 610000,
+      "secondHandTransactions": 13750,
+      "secondHandTransactionArea": 1375000,
+      "transactionValue": 31500000000,
+      "avgPrice": 62309.99999999999,
+      "avgPriceYoY": -1.4,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2026-02",
+      "newHomeTransactions": 5140,
+      "newHomeTransactionArea": 620000,
+      "secondHandTransactions": 14000,
+      "secondHandTransactionArea": 1400000,
+      "transactionValue": 32000000000,
+      "avgPrice": 62620,
+      "avgPriceYoY": -1.1,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2026-03",
+      "newHomeTransactions": 5220,
+      "newHomeTransactionArea": 630000,
+      "secondHandTransactions": 14250,
+      "secondHandTransactionArea": 1425000,
+      "transactionValue": 32500000000,
+      "avgPrice": 62929.99999999999,
+      "avgPriceYoY": -0.8000000000000003,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2026-04",
+      "newHomeTransactions": 5300,
+      "newHomeTransactionArea": 640000,
+      "secondHandTransactions": 14500,
+      "secondHandTransactionArea": 1450000,
+      "transactionValue": 33000000000,
+      "avgPrice": 63240,
+      "avgPriceYoY": -0.5,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "北京",
+      "period": "2026-05",
+      "newHomeTransactions": 5380,
+      "newHomeTransactionArea": 650000,
+      "secondHandTransactions": 14750,
+      "secondHandTransactionArea": 1475000,
+      "transactionValue": 33500000000,
+      "avgPrice": 63549.99999999999,
+      "avgPriceYoY": -0.20000000000000018,
+      "source": "贝壳找房/各地住建局"
+    }
+  ],
+  "cachedAt": "2026-05-19T15:21:30.118Z"
+}

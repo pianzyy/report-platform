@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 98.2,
+      "newHomePriceYoY": -2.5,
+      "newHomePriceMoM": 0.21589262509875068,
+      "secondHandPriceIndex": 98.8,
+      "secondHandPriceYoY": -4.8,
+      "secondHandPriceMoM": -0.26465251459700667,
+      "period": "2025-06",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 98.5,
+      "newHomePriceYoY": -2.3,
+      "newHomePriceMoM": -0.04238913206448536,
+      "secondHandPriceIndex": 99,
+      "secondHandPriceYoY": -4.3999999999999995,
+      "secondHandPriceMoM": -0.02662461330668503,
+      "period": "2025-07",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 98.8,
+      "newHomePriceYoY": -2.1,
+      "newHomePriceMoM": 0.09072892856210579,
+      "secondHandPriceIndex": 99.2,
+      "secondHandPriceYoY": -4,
+      "secondHandPriceMoM": -0.48330762810725514,
+      "period": "2025-08",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 99.1,
+      "newHomePriceYoY": -1.9,
+      "newHomePriceMoM": -0.15583479747488363,
+      "secondHandPriceIndex": 99.4,
+      "secondHandPriceYoY": -3.5999999999999996,
+      "secondHandPriceMoM": 0.24281719528129653,
+      "period": "2025-09",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 99.4,
+      "newHomePriceYoY": -1.7,
+      "newHomePriceMoM": -0.19956371926199132,
+      "secondHandPriceIndex": 99.6,
+      "secondHandPriceYoY": -3.1999999999999997,
+      "secondHandPriceMoM": 0.23164064187098876,
+      "period": "2025-10",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 99.7,
+      "newHomePriceYoY": -1.5,
+      "newHomePriceMoM": -0.09737380112842928,
+      "secondHandPriceIndex": 99.8,
+      "secondHandPriceYoY": -2.8,
+      "secondHandPriceMoM": -0.24734040031081256,
+      "period": "2025-11",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 100,
+      "newHomePriceYoY": -1.2999999999999998,
+      "newHomePriceMoM": 0.19509507424125205,
+      "secondHandPriceIndex": 100,
+      "secondHandPriceYoY": -2.3999999999999995,
+      "secondHandPriceMoM": 0.18563979585246115,
+      "period": "2025-12",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 100.3,
+      "newHomePriceYoY": -1.0999999999999999,
+      "newHomePriceMoM": 0.26405238908283873,
+      "secondHandPriceIndex": 100.2,
+      "secondHandPriceYoY": -1.9999999999999996,
+      "secondHandPriceMoM": -0.41600931242790595,
+      "period": "2026-01",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 100.6,
+      "newHomePriceYoY": -0.8999999999999999,
+      "newHomePriceMoM": 0.16839073977506402,
+      "secondHandPriceIndex": 100.4,
+      "secondHandPriceYoY": -1.5999999999999996,
+      "secondHandPriceMoM": -0.3726327933461818,
+      "period": "2026-02",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 100.9,
+      "newHomePriceYoY": -0.7,
+      "newHomePriceMoM": -0.12763762588313282,
+      "secondHandPriceIndex": 100.6,
+      "secondHandPriceYoY": -1.1999999999999997,
+      "secondHandPriceMoM": -0.20813520096874977,
+      "period": "2026-03",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 101.2,
+      "newHomePriceYoY": -0.5,
+      "newHomePriceMoM": 0.01045736538202302,
+      "secondHandPriceIndex": 100.8,
+      "secondHandPriceYoY": -0.7999999999999998,
+      "secondHandPriceMoM": -0.052525774338827436,
+      "period": "2026-04",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "青岛",
+      "newHomePriceIndex": 101.5,
+      "newHomePriceYoY": -0.2999999999999998,
+      "newHomePriceMoM": -0.09751357814120337,
+      "secondHandPriceIndex": 101,
+      "secondHandPriceYoY": -0.39999999999999947,
+      "secondHandPriceMoM": 0.27948552378641645,
+      "period": "2026-05",
+      "source": "贝壳找房/国家统计局"
+    }
+  ],
+  "cachedAt": "2026-05-19T15:32:41.917Z"
+}

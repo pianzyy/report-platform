@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "city": "宁波",
+      "period": "2025-12",
+      "totalListings": 255,
+      "avgDiscountRate": 69,
+      "priceDiscountVsMarket": 31.000000000000007,
+      "avgPrice": 15179,
+      "marketAvgPrice": 21670,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 480,
+          "avgDiscount": 0.69
+        },
+        {
+          "type": "商业",
+          "count": 200,
+          "avgDiscount": 0.6399999999999999
+        },
+        {
+          "type": "办公",
+          "count": 120,
+          "avgDiscount": 0.61
+        },
+        {
+          "type": "车位",
+          "count": 50,
+          "avgDiscount": 0.6699999999999999
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 18215
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 19734
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 13661
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 10625
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 9867
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9107
+        }
+      ],
+      "avgDaysOnMarket": 95,
+      "transactionVolume": 36,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-01",
+      "totalListings": 268,
+      "avgDiscountRate": 70,
+      "priceDiscountVsMarket": 30.000000000000004,
+      "avgPrice": 15399,
+      "marketAvgPrice": 21780,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 510,
+          "avgDiscount": 0.7
+        },
+        {
+          "type": "商业",
+          "count": 210,
+          "avgDiscount": 0.6499999999999999
+        },
+        {
+          "type": "办公",
+          "count": 125,
+          "avgDiscount": 0.62
+        },
+        {
+          "type": "车位",
+          "count": 52,
+          "avgDiscount": 0.6799999999999999
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 18479
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 20020
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 13859
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 10779
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 10010
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9239
+        }
+      ],
+      "avgDaysOnMarket": 90,
+      "transactionVolume": 39,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-02",
+      "totalListings": 282,
+      "avgDiscountRate": 71,
+      "priceDiscountVsMarket": 29.000000000000004,
+      "avgPrice": 15620,
+      "marketAvgPrice": 21890,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 540,
+          "avgDiscount": 0.71
+        },
+        {
+          "type": "商业",
+          "count": 220,
+          "avgDiscount": 0.6599999999999999
+        },
+        {
+          "type": "办公",
+          "count": 130,
+          "avgDiscount": 0.63
+        },
+        {
+          "type": "车位",
+          "count": 54,
+          "avgDiscount": 0.69
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 18744
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 20306
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 14058
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 10934
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 10153
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9372
+        }
+      ],
+      "avgDaysOnMarket": 85,
+      "transactionVolume": 42,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-03",
+      "totalListings": 295,
+      "avgDiscountRate": 72,
+      "priceDiscountVsMarket": 28.000000000000004,
+      "avgPrice": 15840,
+      "marketAvgPrice": 22000,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 570,
+          "avgDiscount": 0.72
+        },
+        {
+          "type": "商业",
+          "count": 230,
+          "avgDiscount": 0.6699999999999999
+        },
+        {
+          "type": "办公",
+          "count": 135,
+          "avgDiscount": 0.64
+        },
+        {
+          "type": "车位",
+          "count": 56,
+          "avgDiscount": 0.7
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 19008
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 20592
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 14256
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 11088
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 10296
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9504
+        }
+      ],
+      "avgDaysOnMarket": 80,
+      "transactionVolume": 45,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-04",
+      "totalListings": 309,
+      "avgDiscountRate": 73,
+      "priceDiscountVsMarket": 27,
+      "avgPrice": 16060,
+      "marketAvgPrice": 22109,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 600,
+          "avgDiscount": 0.73
+        },
+        {
+          "type": "商业",
+          "count": 240,
+          "avgDiscount": 0.6799999999999999
+        },
+        {
+          "type": "办公",
+          "count": 140,
+          "avgDiscount": 0.65
+        },
+        {
+          "type": "车位",
+          "count": 58,
+          "avgDiscount": 0.71
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 19272
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 20878
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 14454
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 11242
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 10439
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9636
+        }
+      ],
+      "avgDaysOnMarket": 75,
+      "transactionVolume": 48,
+      "source": "贝壳找房/安居客/链家"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-05",
+      "totalListings": 322,
+      "avgDiscountRate": 74,
+      "priceDiscountVsMarket": 26,
+      "avgPrice": 16280,
+      "marketAvgPrice": 22220,
+      "propertyTypes": [
+        {
+          "type": "住宅",
+          "count": 630,
+          "avgDiscount": 0.74
+        },
+        {
+          "type": "商业",
+          "count": 250,
+          "avgDiscount": 0.69
+        },
+        {
+          "type": "办公",
+          "count": 145,
+          "avgDiscount": 0.66
+        },
+        {
+          "type": "车位",
+          "count": 60,
+          "avgDiscount": 0.72
+        }
+      ],
+      "districtDistribution": [
+        {
+          "district": "朝阳区",
+          "count": 150,
+          "avgPrice": 19536
+        },
+        {
+          "district": "海淀区",
+          "count": 120,
+          "avgPrice": 21164
+        },
+        {
+          "district": "丰台区",
+          "count": 100,
+          "avgPrice": 14652
+        },
+        {
+          "district": "通州区",
+          "count": 90,
+          "avgPrice": 11396
+        },
+        {
+          "district": "大兴区",
+          "count": 80,
+          "avgPrice": 10582
+        },
+        {
+          "district": "其他区域",
+          "count": 310,
+          "avgPrice": 9768
+        }
+      ],
+      "avgDaysOnMarket": 70,
+      "transactionVolume": 51,
+      "source": "贝壳找房/安居客/链家"
+    }
+  ],
+  "cachedAt": "2026-05-20T12:50:00.553Z"
+}

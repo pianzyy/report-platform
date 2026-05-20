@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "city": "青岛",
+      "period": "2025-12",
+      "newHomeInventory": 34000,
+      "newHomeInventoryArea": 4080000,
+      "secondHandListings": 58000,
+      "absorptionRate": 0.65,
+      "deStockCycle": 18.5,
+      "vacancyRate": 12.5,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "青岛",
+      "period": "2026-01",
+      "newHomeInventory": 33200,
+      "newHomeInventoryArea": 3980000,
+      "secondHandListings": 59200,
+      "absorptionRate": 0.63,
+      "deStockCycle": 18,
+      "vacancyRate": 12.8,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "青岛",
+      "period": "2026-02",
+      "newHomeInventory": 32400,
+      "newHomeInventoryArea": 3880000,
+      "secondHandListings": 60400,
+      "absorptionRate": 0.61,
+      "deStockCycle": 17.5,
+      "vacancyRate": 13.1,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "青岛",
+      "period": "2026-03",
+      "newHomeInventory": 31600,
+      "newHomeInventoryArea": 3780000,
+      "secondHandListings": 61600,
+      "absorptionRate": 0.5900000000000001,
+      "deStockCycle": 17,
+      "vacancyRate": 13.4,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "青岛",
+      "period": "2026-04",
+      "newHomeInventory": 30800,
+      "newHomeInventoryArea": 3680000,
+      "secondHandListings": 62800,
+      "absorptionRate": 0.5700000000000001,
+      "deStockCycle": 16.5,
+      "vacancyRate": 13.7,
+      "source": "克尔瑞/中指研究院"
+    },
+    {
+      "city": "青岛",
+      "period": "2026-05",
+      "newHomeInventory": 30000,
+      "newHomeInventoryArea": 3580000,
+      "secondHandListings": 64000,
+      "absorptionRate": 0.55,
+      "deStockCycle": 16,
+      "vacancyRate": 14,
+      "source": "克尔瑞/中指研究院"
+    }
+  ],
+  "cachedAt": "2026-05-19T15:32:41.940Z"
+}

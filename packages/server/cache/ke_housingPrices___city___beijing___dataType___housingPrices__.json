@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "city": "北京",
+      "newHomePriceIndex": 98.2,
+      "newHomePriceYoY": -2.5,
+      "newHomePriceMoM": 0.12989388078909558,
+      "secondHandPriceIndex": 98.8,
+      "secondHandPriceYoY": -4.8,
+      "secondHandPriceMoM": 0.27830786883137204,
+      "period": "2025-06",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 98.5,
+      "newHomePriceYoY": -2.3,
+      "newHomePriceMoM": 0.03564918674046996,
+      "secondHandPriceIndex": 99,
+      "secondHandPriceYoY": -4.3999999999999995,
+      "secondHandPriceMoM": 0.050175645280184145,
+      "period": "2025-07",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 98.8,
+      "newHomePriceYoY": -2.1,
+      "newHomePriceMoM": 0.26466148938314454,
+      "secondHandPriceIndex": 99.2,
+      "secondHandPriceYoY": -4,
+      "secondHandPriceMoM": 0.10061383277660163,
+      "period": "2025-08",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 99.1,
+      "newHomePriceYoY": -1.9,
+      "newHomePriceMoM": -0.08524135924043288,
+      "secondHandPriceIndex": 99.4,
+      "secondHandPriceYoY": -3.5999999999999996,
+      "secondHandPriceMoM": 0.16815445958116348,
+      "period": "2025-09",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 99.4,
+      "newHomePriceYoY": -1.7,
+      "newHomePriceMoM": -0.285109553429082,
+      "secondHandPriceIndex": 99.6,
+      "secondHandPriceYoY": -3.1999999999999997,
+      "secondHandPriceMoM": -0.009912079850341537,
+      "period": "2025-10",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 99.7,
+      "newHomePriceYoY": -1.5,
+      "newHomePriceMoM": -0.00621722419586862,
+      "secondHandPriceIndex": 99.8,
+      "secondHandPriceYoY": -2.8,
+      "secondHandPriceMoM": -0.2880601278062113,
+      "period": "2025-11",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 100,
+      "newHomePriceYoY": -1.2999999999999998,
+      "newHomePriceMoM": -0.22204684323170962,
+      "secondHandPriceIndex": 100,
+      "secondHandPriceYoY": -2.3999999999999995,
+      "secondHandPriceMoM": -0.055220038902348945,
+      "period": "2025-12",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 100.3,
+      "newHomePriceYoY": -1.0999999999999999,
+      "newHomePriceMoM": 0.10367288678235248,
+      "secondHandPriceIndex": 100.2,
+      "secondHandPriceYoY": -1.9999999999999996,
+      "secondHandPriceMoM": -0.13667608865521047,
+      "period": "2026-01",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 100.6,
+      "newHomePriceYoY": -0.8999999999999999,
+      "newHomePriceMoM": -0.2760709890251071,
+      "secondHandPriceIndex": 100.4,
+      "secondHandPriceYoY": -1.5999999999999996,
+      "secondHandPriceMoM": -0.4128985026244381,
+      "period": "2026-02",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 100.9,
+      "newHomePriceYoY": -0.7,
+      "newHomePriceMoM": -0.25858268730686285,
+      "secondHandPriceIndex": 100.6,
+      "secondHandPriceYoY": -1.1999999999999997,
+      "secondHandPriceMoM": 0.29786185813777655,
+      "period": "2026-03",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 101.2,
+      "newHomePriceYoY": -0.5,
+      "newHomePriceMoM": -0.2568715820232456,
+      "secondHandPriceIndex": 100.8,
+      "secondHandPriceYoY": -0.7999999999999998,
+      "secondHandPriceMoM": 0.1276482723399952,
+      "period": "2026-04",
+      "source": "贝壳找房/国家统计局"
+    },
+    {
+      "city": "北京",
+      "newHomePriceIndex": 101.5,
+      "newHomePriceYoY": -0.2999999999999998,
+      "newHomePriceMoM": 0.08690074673256498,
+      "secondHandPriceIndex": 101,
+      "secondHandPriceYoY": -0.39999999999999947,
+      "secondHandPriceMoM": -0.3755259237720627,
+      "period": "2026-05",
+      "source": "贝壳找房/国家统计局"
+    }
+  ],
+  "cachedAt": "2026-05-20T12:50:00.514Z"
+}

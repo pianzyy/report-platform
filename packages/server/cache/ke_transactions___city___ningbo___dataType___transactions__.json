@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "city": "宁波",
+      "period": "2025-06",
+      "newHomeTransactions": 1575,
+      "newHomeTransactionArea": 189000,
+      "secondHandTransactions": 4200,
+      "secondHandTransactionArea": 420000,
+      "transactionValue": 9800000000,
+      "avgPrice": 21340,
+      "avgPriceYoY": -3.5,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-07",
+      "newHomeTransactions": 1603,
+      "newHomeTransactionArea": 192500,
+      "secondHandTransactions": 4287,
+      "secondHandTransactionArea": 428750,
+      "transactionValue": 9975000000,
+      "avgPrice": 21450,
+      "avgPriceYoY": -3.2,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-08",
+      "newHomeTransactions": 1631,
+      "newHomeTransactionArea": 196000,
+      "secondHandTransactions": 4375,
+      "secondHandTransactionArea": 437500,
+      "transactionValue": 10150000000,
+      "avgPrice": 21560,
+      "avgPriceYoY": -2.9,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-09",
+      "newHomeTransactions": 1659,
+      "newHomeTransactionArea": 199500,
+      "secondHandTransactions": 4462,
+      "secondHandTransactionArea": 446250,
+      "transactionValue": 10325000000,
+      "avgPrice": 21670,
+      "avgPriceYoY": -2.6,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-10",
+      "newHomeTransactions": 1687,
+      "newHomeTransactionArea": 203000,
+      "secondHandTransactions": 4550,
+      "secondHandTransactionArea": 455000,
+      "transactionValue": 10500000000,
+      "avgPrice": 21780,
+      "avgPriceYoY": -2.3,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-11",
+      "newHomeTransactions": 1715,
+      "newHomeTransactionArea": 206500,
+      "secondHandTransactions": 4637,
+      "secondHandTransactionArea": 463749,
+      "transactionValue": 10675000000,
+      "avgPrice": 21890,
+      "avgPriceYoY": -2,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2025-12",
+      "newHomeTransactions": 1743,
+      "newHomeTransactionArea": 210000,
+      "secondHandTransactions": 4725,
+      "secondHandTransactionArea": 472499,
+      "transactionValue": 10850000000,
+      "avgPrice": 22000,
+      "avgPriceYoY": -1.7000000000000002,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-01",
+      "newHomeTransactions": 1771,
+      "newHomeTransactionArea": 213500,
+      "secondHandTransactions": 4812,
+      "secondHandTransactionArea": 481249,
+      "transactionValue": 11025000000,
+      "avgPrice": 22109.999999999996,
+      "avgPriceYoY": -1.4,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-02",
+      "newHomeTransactions": 1798,
+      "newHomeTransactionArea": 217000,
+      "secondHandTransactions": 4900,
+      "secondHandTransactionArea": 489999,
+      "transactionValue": 11200000000,
+      "avgPrice": 22220,
+      "avgPriceYoY": -1.1,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-03",
+      "newHomeTransactions": 1826,
+      "newHomeTransactionArea": 220500,
+      "secondHandTransactions": 4987,
+      "secondHandTransactionArea": 498749,
+      "transactionValue": 11374999999,
+      "avgPrice": 22329.999999999996,
+      "avgPriceYoY": -0.8000000000000003,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-04",
+      "newHomeTransactions": 1854,
+      "newHomeTransactionArea": 224000,
+      "secondHandTransactions": 5075,
+      "secondHandTransactionArea": 507499,
+      "transactionValue": 11549999999,
+      "avgPrice": 22440,
+      "avgPriceYoY": -0.5,
+      "source": "贝壳找房/各地住建局"
+    },
+    {
+      "city": "宁波",
+      "period": "2026-05",
+      "newHomeTransactions": 1882,
+      "newHomeTransactionArea": 227500,
+      "secondHandTransactions": 5162,
+      "secondHandTransactionArea": 516249,
+      "transactionValue": 11724999999,
+      "avgPrice": 22549.999999999996,
+      "avgPriceYoY": -0.20000000000000018,
+      "source": "贝壳找房/各地住建局"
+    }
+  ],
+  "cachedAt": "2026-05-20T12:50:00.526Z"
+}
