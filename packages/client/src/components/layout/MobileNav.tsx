@@ -17,7 +17,7 @@ export function MobileNav() {
       <div className="flex items-center justify-around h-14">
         {navItems.map(item => {
           const isActive = location.pathname === item.to ||
-            (item.to === '/reports' && location.pathname.startsWith('/reports/') && item.to !== '/reports/new');
+            (item.to === '/reports' && location.pathname.startsWith('/reports/') && location.pathname !== '/reports/new');
 
           return (
             <NavLink

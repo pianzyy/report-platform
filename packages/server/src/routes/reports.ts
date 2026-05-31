@@ -81,6 +81,9 @@ reportRoutes.patch('/:id', authenticate, asyncHandler(async (req, res) => {
   if (req.body.config) {
     const parsed = reportConfigSchema.parse(req.body.config);
     updates.push('config = ?'); params.push(JSON.stringify(parsed));
+    updates.push('status = ?'); params.push('draft');
+    updates.push('content = NULL');
+    updates.push('error_message = NULL');
   }
   updates.push('updated_at = ?'); params.push(new Date().toISOString());
   params.push(req.params.id);

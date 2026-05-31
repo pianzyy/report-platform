@@ -14,6 +14,7 @@ export class ExportService {
       const puppeteer = await import('puppeteer');
       const browser = await puppeteer.default.launch({
         headless: true,
+        executablePath: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
         args: ['--no-sandbox', '--disable-setuid-sandbox'],
       });
 

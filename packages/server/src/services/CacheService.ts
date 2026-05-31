@@ -124,12 +124,37 @@ export class CacheService {
       } catch (err) {
         logger.warn({ err }, 'Cache invalidation failed');
       }
+
+      // L3: Delete file cache
+      try {
+        const prefix = `${source}_${dataType || ''}`;
+        const files = fs.readdirSync(env.CACHE_DIR);
+        for (const file of files) {
+          if (file.startsWith(prefix)) {
+            fs.unlinkSync(path.join(env.CACHE_DIR, file));
+          }
+        }
+      } catch (err) {
+        logger.warn({ err }, 'L3 cache invalidation failed');
+      }
     } else {
       this.l1Cache.clear();
       try {
         execute('UPDATE data_cache SET is_valid = 0');
       } catch (err) {
         logger.warn({ err }, 'Full cache invalidation failed');
+      }
+
+      // L3: Delete all file cache
+      try {
+        const files = fs.readdirSync(env.CACHE_DIR);
+        for (const file of files) {
+          if (file.endsWith('.json')) {
+            fs.unlinkSync(path.join(env.CACHE_DIR, file));
+          }
+        }
+      } catch (err) {
+        logger.warn({ err }, 'L3 full cache invalidation failed');
       }
     }
   }

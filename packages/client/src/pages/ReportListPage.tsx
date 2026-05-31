@@ -4,7 +4,7 @@ import { FileText, PlusCircle, Search, Trash2, Copy, Eye, RefreshCw } from 'luci
 import { useReports, useDeleteReport, useGenerateReport } from '../api/reports';
 import { ReportStatus, ReportStatusLabel } from '@report-gen/shared';
 
-export function ReportListPage() {
+export default function ReportListPage() {
   const navigate = useNavigate();
   const [statusFilter, setStatusFilter] = useState<string>('');
   const [searchTerm, setSearchTerm] = useState('');

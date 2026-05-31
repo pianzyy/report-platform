@@ -3,7 +3,7 @@ import { RefreshCw, Database, Circle, Clock, AlertTriangle } from 'lucide-react'
 import { useDataSources, useRefreshHistory, useRefreshData } from '../api/data';
 import { cn } from '../utils/cn';
 
-export function DataManagementPage() {
+export default function DataManagementPage() {
   const { data: sourcesData, isLoading } = useDataSources();
   const { data: historyData } = useRefreshHistory();
   const refreshData = useRefreshData();

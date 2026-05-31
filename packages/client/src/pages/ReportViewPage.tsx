@@ -6,7 +6,7 @@ import type { ReportDocument } from '@report-gen/shared';
 import ReactECharts from 'echarts-for-react';
 import { cn } from '../utils/cn';
 
-export function ReportViewPage() {
+export default function ReportViewPage() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
 
@@ -77,6 +77,12 @@ export function ReportViewPage() {
           </button>
           <h1 className="text-lg font-semibold text-gray-900 truncate mx-4 hidden sm:block">{document.title}</h1>
           <div className="flex items-center gap-2">
+            <button
+              onClick={() => generateReport.mutate({ id: id!, forceRefresh: true })}
+              className="btn-secondary text-xs gap-1 py-1.5"
+            >
+              <RefreshCw className="w-3.5 h-3.5" /> 更新数据
+            </button>
             <button onClick={handleExportJSON} className="btn-secondary text-xs gap-1 py-1.5">
               <Download className="w-3.5 h-3.5" /> JSON
             </button>

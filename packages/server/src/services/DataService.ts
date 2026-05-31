@@ -3,6 +3,7 @@ import { MacroScraper, HousingPriceScraper, TransactionScraper, InventoryScraper
 import { queryAll, queryOne, execute } from '../db';
 import { logger } from '../utils/logger';
 import { DataSource } from '@report-gen/shared';
+import { DEFAULT_CITIES } from '@report-gen/shared';
 import type { MacroData, HousingPriceData, TransactionData, InventoryData, PolicyData, GongDiFangData, DataSourceStatus, ScrapedData } from '@report-gen/shared';
 
 export class DataService {
@@ -68,23 +69,40 @@ export class DataService {
             recordsUpdated = 8;
             break;
           case DataSource.KE:
-            await Promise.all([
-              this.housingPriceScraper.fetch({ dataType: 'housingPrices' }),
-              this.transactionScraper.fetch({ dataType: 'transactions' }),
-            ]);
-            recordsUpdated = 24;
+            await Promise.all(
+              DEFAULT_CITIES.flatMap(city => [
+                this.housingPriceScraper.fetch({ city, dataType: 'housingPrices' }),
+                this.transactionScraper.fetch({ city, dataType: 'transactions' }),
+              ])
+            );
+            recordsUpdated = DEFAULT_CITIES.length * 24;
             break;
           case DataSource.FANG:
-            await this.inventoryScraper.fetch({ dataType: 'inventory' });
-            recordsUpdated = 6;
+            await Promise.all(
+              DEFAULT_CITIES.map(city =>
+                this.inventoryScraper.fetch({ city, dataType: 'inventory' })
+              )
+            );
+            recordsUpdated = DEFAULT_CITIES.length * 6;
+            break;
+          case DataSource.ANJUKE:
+            // No scraper available for Anjuke - records stay as 0
             break;
           case DataSource.POLICY:
-            await this.policyScraper.fetch({ dataType: 'policies' });
-            recordsUpdated = 6;
+            await Promise.all(
+              DEFAULT_CITIES.map(city =>
+                this.policyScraper.fetch({ city, dataType: 'policies' })
+              )
+            );
+            recordsUpdated = DEFAULT_CITIES.length * 6;
             break;
           case DataSource.GONG_DI_FANG:
-            await this.gongDiFangScraper.fetch({ dataType: 'gongdifang' });
-            recordsUpdated = 6;
+            await Promise.all(
+              DEFAULT_CITIES.map(city =>
+                this.gongDiFangScraper.fetch({ city, dataType: 'gongdifang' })
+              )
+            );
+            recordsUpdated = DEFAULT_CITIES.length * 6;
             break;
         }
 
@@ -119,7 +137,8 @@ export class DataService {
 
     return sources.map(s => {
       const lastCache = queryOne<{ fetched_at: string; count: number }>(
-        'SELECT fetched_at, COUNT(*) as count FROM data_cache WHERE source = ?', [s.name]
+        'SELECT MAX(fetched_at) as fetched_at, COUNT(*) as count FROM data_cache WHERE source = ? AND is_valid = 1',
+        [s.name]
       );
 
       const lastRefresh = queryOne<{ started_at: string; status: string }>(

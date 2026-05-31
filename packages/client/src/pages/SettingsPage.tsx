@@ -1,6 +1,6 @@
 import { Settings, Server, Bell, Database } from 'lucide-react';
 
-export function SettingsPage() {
+export default function SettingsPage() {
   return (
     <div className="max-w-3xl mx-auto space-y-6 pb-16 lg:pb-0">
       <div>

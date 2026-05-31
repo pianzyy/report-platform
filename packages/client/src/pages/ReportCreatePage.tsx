@@ -9,7 +9,7 @@ import { cn } from '../utils/cn';
 
 const STEPS = ['基本信息', '章节配置', '确认生成'];
 
-export function ReportCreatePage() {
+export default function ReportCreatePage() {
   const navigate = useNavigate();
   const { id } = useParams<{ id: string }>();
   const isEdit = !!id;
@@ -73,6 +73,8 @@ export function ReportCreatePage() {
     const config = buildConfig();
     if (isEdit && id) {
       await updateReport.mutateAsync({ id, data: config });
+      await generateReport.mutateAsync({ id });
+      navigate(`/reports/${id}`);
     } else {
       const result = await createReport.mutateAsync(config);
       const newId = result.data?.id;

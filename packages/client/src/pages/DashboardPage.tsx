@@ -6,7 +6,7 @@ import { StatsCard } from '../components/dashboard/StatsCard';
 import { DataFreshnessIndicator } from '../components/dashboard/DataFreshnessIndicator';
 import { ReportStatus } from '@report-gen/shared';
 
-export function DashboardPage() {
+export default function DashboardPage() {
   const navigate = useNavigate();
   const { data: reportList } = useReports({ pageSize: 5 });
   const { data: systemStats } = useSystemStats();

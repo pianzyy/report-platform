@@ -37,6 +37,11 @@ export function createApp() {
   app.use('/api/v1/reports/:id/generate', generationLimiter);
   app.use('/api/v1/reports/:id/export', generationLimiter);
 
+  // SPA fallback — serve index.html for all non-API, non-static routes
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '..', '..', 'client', 'dist', 'index.html'));
+  });
+
   app.use(errorHandler);
 
   return app;
