@@ -2,12 +2,12 @@ services:
   - type: web
     name: report-platform
     env: node
-    buildCommand: npm install && npm run build -w @report-gen/shared && npm run build -w @report-gen/client
-    startCommand: npx tsx packages/server/src/index.ts
+    buildCommand: npm install --include=dev && npm run build -w @report-gen/shared && npm run build -w @report-gen/client
+    startCommand: ./node_modules/.bin/tsx packages/server/src/index.ts
     envVars:
       - key: NODE_ENV
         value: production
       - key: JWT_SECRET
         generateValue: true
-      - key: PORT
-        value: "3001"
+      - key: PUPPETEER_SKIP_DOWNLOAD
+        value: "true"
